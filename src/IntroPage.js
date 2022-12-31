@@ -7,7 +7,7 @@ export default function IntroPage() {
   return(
       <div>
         <h3>Hey, this is "my introduction" page!</h3>
-        <p>Hello, my name is {name} and I am a {yearOfStudy} year student at the University of Toronto.</p>
+        <p>Hello! My name is {name} and I am a {yearOfStudy} year student at the University of Toronto.</p>
         <h2>Introduction Video:</h2>
         <iframe
         width = "500"
