@@ -13,7 +13,7 @@ export default function IntroPage() {
         width = "500"
         height = "400"
         sandbox='allow-same-origin allow-forms allow-popups allow-scripts allow-presentation'
-        src={`https://youtube.com/embed/2X_GgUhvAbE?autoplay=0`}>
+        src={`https://youtube.com/embed/XGOxPlV2m4w?autoplay=0`}>
         </iframe>
         <Link to="/"><h3>back</h3></Link>
       </div>
